@@ -1,0 +1,11 @@
+{
+  "notice": "Historical commit metadata as found locally. A listed hash is not a claim that its full contents were uploaded. Dates are retained as found, not independently notarized.",
+  "commits": [
+    {
+      "commit": "fa81cc238faf669b589f28eeeb766d7998cc08b2",
+      "authorDate": "2026-09-29T14:36:16-07:00",
+      "commitDate": "2026-09-29T14:36:16-07:00",
+      "subject": "Publish Stop This Planet privacy policy"
+    }
+  ]
+}

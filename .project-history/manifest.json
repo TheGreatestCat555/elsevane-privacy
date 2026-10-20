@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "capturedAtUtc": "2026-10-20T03:49:53.413400+00:00",
+  "objectFormat": "Git object IDs; Git LFS blobs contain SHA256 pointers to their binary payloads. Git may normalize text line endings.",
+  "selfExcluded": ".project-history/manifest.json",
+  "files": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "gitBlobOid": "d6a481c54bdf394ac690b7acbd76f292d62d5cb7"
+    },
+    {
+      "path": ".nojekyll",
+      "mode": "100644",
+      "gitBlobOid": "dec4e862dcc6feb1e59d418b97698ce1b7054f3a"
+    },
+    {
+      "path": ".project-history/checkpoints/2026-10-19.json",
+      "mode": "100644",
+      "gitBlobOid": "c306233b33c1ed6c92fd294e4e72633ed2b411d9"
+    },
+    {
+      "path": ".project-history/local-history.json",
+      "mode": "100644",
+      "gitBlobOid": "bb299517b44c2ebaca1ecb0c8820f52fbce9dc62"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "gitBlobOid": "2617be59201e32ddc9c96e30e62c96d11e66ebd4"
+    },
+    {
+      "path": "index.html",
+      "mode": "100644",
+      "gitBlobOid": "b0c0d28a8497f69d750a6a894fe0e661c45531d7"
+    }
+  ]
+}

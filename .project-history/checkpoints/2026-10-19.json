@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "capturedAtUtc": "2026-10-20T03:49:53.413400+00:00",
+  "projectName": "elsevane-privacy",
+  "canonicalLocalRoot": "C:\\Dev\\elsevane-privacy",
+  "githubRepository": "TheGreatestCat555/elsevane-privacy",
+  "visibility": "existing public privacy policy",
+  "purpose": "Owner-requested dated source checkpoint, technical traceability and rollback",
+  "previousLocalCommit": "fa81cc238faf669b589f28eeeb766d7998cc08b2",
+  "historyPolicy": "Actual capture date; existing historical commits retained; no backdating or invented creation/completion dates",
+  "scope": "Versionable source, project documents, data definitions and eligible assets. Ignored machine state, credentials, third-party downloads and large local experiment data remain local. See manifest for exact included files.",
+  "validation": "Archival and structure checks only; no new runtime/product/clinical validation claimed",
+  "provenance": "Prepared with AI assistance at the explicit request of the account owner; authorship and third-party notices preserved",
+  "localOnlyPathsAreNotBackedUpByGitHub": true,
+  "sourceBranch": "main",
+  "sourceHeadBeforeCapture": "fa81cc238faf669b589f28eeeb766d7998cc08b2",
+  "secretReview": "High-confidence credential patterns checked in eligible source/docs; credential files and machine state excluded. No perfect-secret-detection claim.",
+  "recoveryScope": "Files in manifest are the checkpoint. Local-only files and ignored assets require the preserved local files or their independently licensed source; hashes alone cannot restore their contents."
+}
